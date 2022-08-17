@@ -1,0 +1,1 @@
+print(10//3) # (tamp bölen): 10 sayısını 3 bölünür ve tam kısmı alınır
